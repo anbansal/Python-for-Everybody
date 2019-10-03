@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch4-Functions/excerciseEndOfChp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4-Functions/excerciseEndOfChp2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +80,7 @@
       <workItem from="1570107147612" duration="883000" />
       <workItem from="1570110106415" duration="2124000" />
       <workItem from="1570128227339" duration="3303000" />
+      <workItem from="1570134897597" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="Chap 1 branch">
       <created>1570107305059</created>
