@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch2-Variables-expressions-and-statements/CelToFahn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch2-Variables-expressions-and-statements/PythonCode2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch3-Conditional-execution/excerciseEndOfChapter2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch2-Variables-expressions-and-statements/PythonCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch2-Variables-expressions-and-statements/PythonCode1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Rh6nCOSYSuzd75FR9lyVb7K7Zw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -103,7 +104,49 @@
       <option name="project" value="LOCAL" />
       <updated>1570111563293</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter 3 : Conditional Execution">
+      <created>1570113200427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570113200428</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chapter 3 : Conditional Execution -- Book Exercise">
+      <created>1570122592613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570122592613</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Chapter 3 : Conditional Execution -- using try and except block in python">
+      <created>1570125298465</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570125298465</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Chapter 3 : Conditional Execution -- Guardian Pattern in Python">
+      <created>1570126168761</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570126168761</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chapter 3 : Conditional Execution -- End of Chapter Exercise 1">
+      <created>1570126466675</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570126466675</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Chapter 3 : Conditional Execution -- End of Chapter Exercise -- Improved, now handle the non-numeric input">
+      <created>1570126756635</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570126756635</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +169,13 @@
     <MESSAGE value="Chap 1 branch" />
     <MESSAGE value="Chap 2 branch" />
     <MESSAGE value="Doing Chapter 2 exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Doing Chapter 2 exercises" />
+    <MESSAGE value="Chapter 3 : Conditional Execution" />
+    <MESSAGE value="Chapter 3 : Conditional Execution -- Book Exercise" />
+    <MESSAGE value="Chapter 3 : Conditional Execution -- using try and except block in python" />
+    <MESSAGE value="Chapter 3 : Conditional Execution -- Guardian Pattern in Python" />
+    <MESSAGE value="Chapter 3 : Conditional Execution -- End of Chapter Exercise 1" />
+    <MESSAGE value="Chapter 3 : Conditional Execution -- End of Chapter Exercise -- Improved, now handle the non-numeric input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 : Conditional Execution -- End of Chapter Exercise -- Improved, now handle the non-numeric input" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_for_Everybody$Python_for_everyone.coverage" NAME="Python-for-everyone Coverage Results" MODIFIED="1570108724527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
