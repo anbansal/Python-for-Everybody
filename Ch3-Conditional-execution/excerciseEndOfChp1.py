@@ -1,7 +1,15 @@
 promt = "Please enter hours: "
-hours = float(input(promt))
+try:
+    hours = float(input(promt))
+except:
+    print("Please enter hours in numeric!")
+    quit(0)
 promt = "Please enter rate: "
-rate = float(input(promt))
+try:
+    rate = float(input(promt))
+except:
+    print("Please enter rate in numeric!")
+    quit(0)
 multiplier = 1.0
 if hours > 40:
     multiplier = 1.5
