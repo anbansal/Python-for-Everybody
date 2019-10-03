@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch4-Functions/excerciseEndOfChp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4-Functions/excerciseEndOfChp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5-Iteration/excerciseEndOfChp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,6 +83,7 @@
       <workItem from="1570107147612" duration="883000" />
       <workItem from="1570110106415" duration="2124000" />
       <workItem from="1570128227339" duration="3303000" />
+      <workItem from="1570134897597" duration="2245000" />
     </task>
     <task id="LOCAL-00001" summary="Chap 1 branch">
       <created>1570107305059</created>
@@ -169,7 +169,35 @@
       <option name="project" value="LOCAL" />
       <updated>1570130920467</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Chapter 5 : Iteration">
+      <created>1570136339508</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570136339508</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Chapter 5 : Iteration -- Copy the Inputs function">
+      <created>1570136903374</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570136903374</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Chapter 5 : Iteration -- Include the continue statement">
+      <created>1570137018533</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570137018533</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Chapter 5 : Iteration -- create min and max functions">
+      <created>1570137642716</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1570137642716</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +229,11 @@
     <MESSAGE value="Chapter 4 : Functions" />
     <MESSAGE value="Chapter 4 : Functions -- random number in a range" />
     <MESSAGE value="Chapter 4 : Functions -- Singing the lyrics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 4 : Functions -- Singing the lyrics" />
+    <MESSAGE value="Chapter 5 : Iteration" />
+    <MESSAGE value="Chapter 5 : Iteration -- Copy the Inputs function" />
+    <MESSAGE value="Chapter 5 : Iteration -- Include the continue statement" />
+    <MESSAGE value="Chapter 5 : Iteration -- create min and max functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 5 : Iteration -- create min and max functions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_for_Everybody$Python_for_everyone.coverage" NAME="Python-for-everyone Coverage Results" MODIFIED="1570108724527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
