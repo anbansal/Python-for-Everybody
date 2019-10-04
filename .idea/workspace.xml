@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch7-Files/mbox-short.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch7-Files/searchStartwithFrom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch7-Files/SearchInterestingPattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch7-Files/searchStartwithFrom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch7-Files/searchStartwithFrom.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570196673707</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Chapter 7: Files -- Searching the file content">
+      <created>1570209473613</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1570209473613</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +304,8 @@
     <MESSAGE value="Chapter 6 : Strings -- Revising the copy input program" />
     <MESSAGE value="Chapter 6 : Strings -- Exercise at the end of the chapter" />
     <MESSAGE value="Chapter 7: Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 7: Files" />
+    <MESSAGE value="Chapter 7: Files -- Searching the file content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 7: Files -- Searching the file content" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_for_Everybody$Python_for_everyone.coverage" NAME="Python-for-everyone Coverage Results" MODIFIED="1570108724527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />

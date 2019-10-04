@@ -1,9 +1,9 @@
 def search(str):
     count = 0
     fhand = open('mbox-short.txt')
-    #content = fhand.read()
+    # content = fhand.read()
     for line in fhand:
-        if line.startswith(str):
+        if line.find(str) != -1:
             print(line.rstrip())
             count = count + 1
 
@@ -11,5 +11,5 @@ def search(str):
 
 
 if __name__ == '__main__':
-    str = input("Type your search pattern: ")
+    str = input("Type your search pattern: ")  # str = @uct.ac.za;str = From:
     search(str)
