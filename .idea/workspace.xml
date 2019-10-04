@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch9-Dictionaries/exercise4EndOfChp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch9-Dictionaries/mbox.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch9-Dictionaries/exercise5EndOfChp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +100,7 @@
       <workItem from="1570110106415" duration="2124000" />
       <workItem from="1570128227339" duration="3303000" />
       <workItem from="1570134897597" duration="2493000" />
-      <workItem from="1570219412686" duration="5736000" />
+      <workItem from="1570219412686" duration="5969000" />
     </task>
     <task id="LOCAL-00001" summary="Chap 1 branch">
       <created>1570107305059</created>
@@ -342,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570225445067</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Chapter 9 : Dictionaries -- Exercise 4 at the end of the chapter">
+      <created>1570226329353</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1570226329353</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +367,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 4 : Functions" />
     <MESSAGE value="Chapter 4 : Functions -- random number in a range" />
     <MESSAGE value="Chapter 4 : Functions -- Singing the lyrics" />
     <MESSAGE value="Chapter 5 : Iteration" />
@@ -387,7 +391,8 @@
     <MESSAGE value="Chapter 9 : Dictionaries -- Count the words in a file without punctuation" />
     <MESSAGE value="Chapter 9 : Dictionaries -- Exercise 2 at the end of the chapter" />
     <MESSAGE value="Chapter 9 : Dictionaries -- Exercise 3 at the end of the chapter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 9 : Dictionaries -- Exercise 3 at the end of the chapter" />
+    <MESSAGE value="Chapter 9 : Dictionaries -- Exercise 4 at the end of the chapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 9 : Dictionaries -- Exercise 4 at the end of the chapter" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_for_Everybody$Python_for_everyone.coverage" NAME="Python-for-everyone Coverage Results" MODIFIED="1570221709255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
