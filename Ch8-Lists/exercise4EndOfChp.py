@@ -14,7 +14,8 @@ def uniqueWordsList(fhand):
 
 def openFile():
     while True:
-        fname = input("Type your file name: ")
+        fname = input("Type your file name: ")  # enter romeo.txt
+        fname = fname.strip()
         try:
             fhand = open(fname)
             break

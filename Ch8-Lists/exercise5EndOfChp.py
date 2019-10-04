@@ -13,7 +13,8 @@ def countFrom(fhand):
 
 def openFile():
     while True:
-        fname = input("Type your file name: ")
+        fname = input("Type your file name: ")  # enter mbox-short.txt
+        fname = fname.strip()
         try:
             fhand = open(fname)
             break

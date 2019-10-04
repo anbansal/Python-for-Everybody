@@ -5,7 +5,8 @@ def shout(fhand):
 
 if __name__ == '__main__':
     while True:
-        fname = input("Type your file name: ")
+        fname = input("Type your file name: ")  # enter mbox-short.txt
+        fname = fname.strip()
         try:
             fhand = open(fname)
             break
