@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch10-Tuples/countWordsInFileTupleWay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch10-Tuples/romeo_full.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch10-Tuples/exercise1EndOfChp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch10-Tuples/mbox-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch10-Tuples/mbox.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,6 +105,7 @@
       <workItem from="1570128227339" duration="3303000" />
       <workItem from="1570134897597" duration="2493000" />
       <workItem from="1570219412686" duration="5969000" />
+      <workItem from="1570230787341" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="Chap 1 branch">
       <created>1570107305059</created>
