@@ -17,7 +17,8 @@ if __name__ == '__main__':
             break
         except:
             print("Could not open the file", fname)
-            exit()
+            print("Please try again!")
+            continue
 
     search(fhand,str)
     fhand.close()
