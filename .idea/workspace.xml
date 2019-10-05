@@ -2,15 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ac940a-b357-469d-a1ad-944665146238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch14-Object-oriented-programming/inheritancePartyClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch14-Object-oriented-programming/party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/friends.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/hidden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/oauth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/spider.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/twfriends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/twjoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/twspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL/twurl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch13-Using-Web-Services/hidden.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13-Using-Web-Services/hidden.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="friends" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Python-for-Everybody" />
@@ -35,10 +63,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ch11-Regular-expressions" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ch13-Using-Web-Services" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -49,10 +78,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ch13-Using-Web-Services" />
+      <recent name="$PROJECT_DIR$/Ch15-Using-Databases-and-SQL" />
       <recent name="$PROJECT_DIR$/Ch11-Regular-expressions" />
       <recent name="$PROJECT_DIR$/Ch10-Tuples" />
       <recent name="$PROJECT_DIR$/Ch9-Dictionaries" />
-      <recent name="$PROJECT_DIR$/Ch8-Lists" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -110,20 +140,7 @@
       <workItem from="1570239477511" duration="3715000" />
       <workItem from="1570280314758" duration="3161000" />
       <workItem from="1570296858660" duration="1966000" />
-    </task>
-    <task id="LOCAL-00002" summary="Chap 2 branch">
-      <created>1570110316668</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1570110316668</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Doing Chapter 2 exercises">
-      <created>1570111563293</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1570111563293</updated>
+      <workItem from="1570301148868" duration="3652000" />
     </task>
     <task id="LOCAL-00004" summary="Chapter 3 : Conditional Execution">
       <created>1570113200427</created>
@@ -454,7 +471,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570297783893</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Chapter 15 : Using Databases and SQL">
+      <created>1570299406931</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1570299406931</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Chapter 15 : Using Databases and SQL -- First example using sqlite python library">
+      <created>1570302673367</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1570302673367</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,8 +505,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 8 : Lists -- Understanding the chop and middle function on a list" />
-    <MESSAGE value="Chapter 8 : Lists -- Exercise 4 at the end of the chapter" />
     <MESSAGE value="Chapter 8 : Lists -- Exercise 5 at the end of the chapter" />
     <MESSAGE value="Chapter 9 : Dictionaries" />
     <MESSAGE value="Chapter 9 : Dictionaries -- Creating a dictionary of the words read from a file" />
@@ -499,7 +528,9 @@
     <MESSAGE value="Chapter 13: Using Web Services -- Exercise 1 end of the chapter" />
     <MESSAGE value="Chapter 14 : Object-oriented programming -- Some class example" />
     <MESSAGE value="Chapter 14 : Object-oriented programming -- Construction and destruction of the class objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 14 : Object-oriented programming -- Construction and destruction of the class objects" />
+    <MESSAGE value="Chapter 15 : Using Databases and SQL" />
+    <MESSAGE value="Chapter 15 : Using Databases and SQL -- First example using sqlite python library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 15 : Using Databases and SQL -- First example using sqlite python library" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_for_Everybody$Python_for_everyone.coverage" NAME="Python-for-everyone Coverage Results" MODIFIED="1570221709255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
